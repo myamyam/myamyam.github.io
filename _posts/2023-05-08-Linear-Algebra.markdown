@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linear Algebra"
-date:   2019-03-23 16:32:36 +0530
+date:   2023-05-08 16:32:36 +0530
 categories: Mathematics
 ---
 About Matrix, any kind of calculation or decomposition will be checked here.
