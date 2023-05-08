@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Structure"
 date:   2023-05-08 13:56:25 +0900
-categories: jekyll update
+categories: python
 ---
 I don't know well. Data Structure course logic can be uploaded here.
 
