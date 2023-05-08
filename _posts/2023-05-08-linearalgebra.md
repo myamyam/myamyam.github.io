@@ -8,7 +8,6 @@ use_math: true
 About Matrix, any kind of calculation or decomposition will be checked here.
 
 I can enter the matrix like below
-
 $$
 \begin{aligned}
 I_3=

@@ -10,7 +10,7 @@ I can write python code here like below
 
 __Bubble Sort__
 
-```{python}
+```python
 def bubble_sort(a):
   for last in range(len(a),1,-1):
     flipped=False
@@ -25,7 +25,7 @@ def bubble_sort(a):
 ```
 
 __Merge Sort__
-```{python}
+```python
 #Merge sort can't be implemented as an in-place algorithm
 def merge(a, b):
   i = 0
@@ -64,7 +64,7 @@ def merge_sort(a):
 ```
 
 __Quick Sort__
-```{python}
+```python
 #This is in-place algorithm
 # partition range a[lo:hi+1] and return index of pivot
 def partition(a, lo, hi):
