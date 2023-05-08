@@ -1,1 +1,0 @@
-# myamyam.github.io
