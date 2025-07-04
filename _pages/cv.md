@@ -1,14 +1,18 @@
 ---
 layout: default
 title:  "Curriculum Vitae"
-permallink: /cv/
+permalink: /cv/
 ---
+# Curriculum Vitae  
 
-# Curriculum Vitae
+## Education  
+<img src="/assets/gist.png" width="25px" height="25px">
+**B.S.** in Electrical Engineering and Computer Science  
+Gwangju Institute of Science and Technology, Korea  
+*Mar 2022-Present*  
 
-## Education
-
-## Research Experience
-
-## Publications
-
+## Research Experience  
+  
+  
+## Publications  
+  
