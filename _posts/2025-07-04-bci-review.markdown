@@ -2,7 +2,7 @@
 layout: post
 title:  "A Comprehensive review of EEG-based brain-computer interface"
 date:   2025-07-04
-categories: BCI 
+categories: BCI Biocomputing
 ---
 
 Paper Review : A Comprehensive review of EEG-based brain-computer interface
