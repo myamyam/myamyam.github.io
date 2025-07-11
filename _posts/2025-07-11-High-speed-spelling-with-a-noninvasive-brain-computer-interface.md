@@ -3,7 +3,6 @@ layout: post
 title:  "📝 High speed spelling with a noninvasive brain-computer interface"
 date:   2025-07-11
 categories: BCI Biocomputing
-use_math: true
 ---
 Paper Review : High speed spelling with a noninvasive brain-computer interface
 
@@ -73,7 +72,7 @@ Phase interval은 인접 주파수 성분 간 구분 정도 결정
 
 자극 시간은 SNR(Signal-to-noise ratio)에 영향
 
-최적 → 0.5 $\pi$간격, 0.5초
+최적 → 0.5 $\pi$ 간격, 0.5초
 
 ### Online Spelling Performance
 

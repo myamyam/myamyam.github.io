@@ -3,7 +3,6 @@ layout: post
 title:  "📝 Frequency recognition based on canonical correlation analysis for SSVEP based BCIs"
 date:   2025-07-11
 categories: BCI CCA Biocomputing
-use_math: true
 ---
 Paper Review : Frequency recognition based on canonical correlation analysis for SSVEP based BCIs
 
@@ -68,9 +67,9 @@ CCA는 두 세트의 변수 간 관계
 
 ![image.png](/assets/posts/0711-2/image.png)
 
-$$
+```math
 w=(a_1, a_2, ... , a_p)^T, v=(b_1, b_2, ..., b_q)^T
-$$
+```
 
 $$
 z_x=Xw,z_y=Yv
