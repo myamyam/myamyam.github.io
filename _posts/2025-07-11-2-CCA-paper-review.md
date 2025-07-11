@@ -67,9 +67,9 @@ CCA는 두 세트의 변수 간 관계
 
 ![image.png](/assets/posts/0711-2/image.png)
 
-```math
+$$
 w=(a_1, a_2, ... , a_p)^T, v=(b_1, b_2, ..., b_q)^T
-```
+$$
 
 $$
 z_x=Xw,z_y=Yv
@@ -80,8 +80,8 @@ $z_x$와 $z_y$의 상관을 최대화하는 $w,v$를 구하는 것
 $$
 \begin{equation}
 \begin{split}
-w^*,v^*=\argmax_{w,v}corr(Xw, Yv)\\
-=\argmax_{w,v}\frac{w^T\sum_{xy}v}{\sqrt{w^T\sum_{xx}w}\sqrt{v^T\sum_{yy}v}}
+w^*,v^*=\arg \max_{w,v}corr(Xw, Yv)\\
+=\arg \max_{w,v}\frac{w^T\sum_{xy}v}{\sqrt{w^T\sum_{xx}w}\sqrt{v^T\sum_{yy}v}}
 \end{split}
 \end{equation}
        
