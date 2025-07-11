@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "📝 Frequency recognition based on canonical correlation analysis for SSVEP based BCIs"
-date:   2025-07-06
+date:   2025-07-11
 categories: BCI CCA Biocomputing
+use_math: true
 ---
 Paper Review : Frequency recognition based on canonical correlation analysis for SSVEP based BCIs
 
@@ -28,6 +29,7 @@ Periodogram은 DFT로 바로 계산할 수 있는 non-parametric method
 
 FFT(fast Fourier transform)가 사용됨
 
+  
 *Parametric vs Non-parametric
 
 모집단으로부터 계산한 수치일 경우 **모수(parameter)** 
@@ -43,7 +45,7 @@ Non-parametric:
 데이터가 노이즈에 오염됐을 때도 덜 민감함
 
 단점! 단일 채널에서 분석될 때 여전히 노이즈에 민감함
-
+  
 CCA 같은 Array signal processing으로 SNR 개선할 수 있음
 
 paper → 다중 채널에서 CCA 기반 freq recognition approach 제안
@@ -59,7 +61,7 @@ Canonical Variable: 한쪽 독립 변수 집단을 선형 결합으로 표현
 3. canonical variable 쌍 개수가 작은 세트의 변수 개수 될 때까지
 
 paper → 가장 큰 상관 계수만 고려
-
+  
 일반적인 상관 관계는 두 변수 간 관계
 
 CCA는 두 세트의 변수 간 관계
