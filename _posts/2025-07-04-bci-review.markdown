@@ -5,7 +5,7 @@ date:   2025-07-04
 categories: BCI Biocomputing
 ---
 
-📝 Paper Review : A Comprehensive review of EEG-based brain-computer interface
+Paper Review : A Comprehensive review of EEG-based brain-computer interface
 
 ```javascript
 const Razorpay = require('razorpay');

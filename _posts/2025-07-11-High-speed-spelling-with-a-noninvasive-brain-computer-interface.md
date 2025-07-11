@@ -6,8 +6,6 @@ categories: BCI Biocomputing
 ---
 Paper Review : High speed spelling with a noninvasive brain-computer interface
 
-# High-speed spelling with a noninvasive brain-computer interface
-
 [High-speed-spelling-with-a-noninvasive-brain-computer-interface.pdf](/assets/posts/0711/chen-et-al-high-speed-spelling-with-a-noninvasive-brain-computer-interface.pdf)
 
 ## Abstract/ Keyword
