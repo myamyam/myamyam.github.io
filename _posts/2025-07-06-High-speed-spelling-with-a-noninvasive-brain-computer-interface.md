@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📝 High speed spelling with a noninvasive brain-computer interface"
-date:   2025-07-11
+date:   2025-07-06
 categories: BCI Biocomputing
 ---
 Paper Review : High speed spelling with a noninvasive brain-computer interface
