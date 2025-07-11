@@ -98,7 +98,7 @@ $Cov(X,Y)=E[(X-\mu_X)(Y-\mu_Y)]=E[XY]-\mu_X\mu_Y$
 $w_i^T\sum_{ij}w_j=w_i^TX_i^TX_jw_j=(X_iw_i)^TX_jw_j=z_i^Tz_j$
 
 $$
-w^*,v^*=\argmax_{z_x,z_y}\frac{z_x^Tz_y}{\sqrt{z_x^Tz_x}\sqrt{z_y^Tz_y}}
+w^*,v^*=\arg \max_{z_x,z_y}\frac{z_x^Tz_y}{\sqrt{z_x^Tz_x}\sqrt{z_y^Tz_y}}
 $$
 
 $$
@@ -106,10 +106,10 @@ $$
 $$
 
 $$
-w^*,v^*=\argmax_{z_x,z_y}(z_x^T z_y)
+w^*,v^*=\arg \max_{z_x,z_y}(z_x^T z_y)
 $$
 
-$Cov(z_x^i,z_x^j)=Cov(z_y^i,z_y^j)=0$   for  $i{=}\mathllap{/\,}j$ 
+$Cov(z_x^i,z_x^j)=Cov(z_y^i,z_y^j)=0$   for  $i \ne j$ 
 
 : canonical variable 쌍끼리 독립(상관 없음) 전제
 
@@ -288,8 +288,8 @@ CCA가 amplitude와 phase를 각 주파수 성분마다 고려할 수 있기 때
 
 가장 큰 세개의 계수를 합산, 모든 계수의 곱을 사용하는 등 방법 고려
 
-1. 사용자의 시각 경로가 선형적이라고 가정함
+2. 사용자의 시각 경로가 선형적이라고 가정함
 
 그러나 실제로는 비선형 처리로 구현함
 
-1. 계수 외에도 projection을 어떻게 사용할지 고려해볼 만함
+3. 계수 외에도 projection을 어떻게 사용할지 고려해볼 만함
