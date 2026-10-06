@@ -1,6 +1,6 @@
 title: Welcome to Sumin's Blog
 author: myamyam
-email: sumin030822@daum.net
+email: sumin822-@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -16,7 +16,7 @@ collections:
     output: true
 plainwhite:
   name: Sumin Kwon
-  tagline: College Student
+  tagline: M.S. Student
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -37,7 +37,7 @@ plainwhite:
     #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
-    instagram: https://www.instagram.com/mmm__nn8p
+    # instagram: https://www.instagram.com/mmm__nn8p
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
